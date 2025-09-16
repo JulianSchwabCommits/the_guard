@@ -1,0 +1,16 @@
+# OS generated files
+.DS_Store
+*:Zone.Identifier
+
+# IDE files
+*.iml
+.idea/
+
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
